@@ -1,0 +1,2 @@
+# Mod-lisation-Statistique-sur-le-secteur-de-l-Automobile-par-Mohamed-Falilou-Fall
+PROJET DE MODELISATION STATISTIQUE DU PRIX DES VOITURES DE FABRICATION AMERICAINE SUR LE MARCHE DES ETATS-UNIS
