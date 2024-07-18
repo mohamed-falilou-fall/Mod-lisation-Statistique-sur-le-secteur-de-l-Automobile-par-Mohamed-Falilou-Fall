@@ -1,0 +1,12 @@
+name: Automobile_Price_Predict_Falilou
+title: Projet IMS CFD 2024 Mohamed Falilou Fall
+username: mohamed-falilou-fall
+account: mohamed-falilou-fall
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12334483
+bundleId: 8879514
+url: https://mohamed-falilou-fall.shinyapps.io/Automobile_Price_Predict_Falilou/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
